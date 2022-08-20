@@ -1,0 +1,20 @@
+.container {
+  margin: 0 auto;
+  padding: 20px;
+  font-family: "Ibarra Real Nova", serif;
+
+  color: #264bf0;
+}
+#celsius,
+#fahrenheit {
+  color: #264bf0;
+}
+h2 {
+  text-align: right;
+  margin-right: 45px;
+  font-weight: 900;
+  font-size: 40px;
+}
+.emoji {
+  text-align: right;
+}

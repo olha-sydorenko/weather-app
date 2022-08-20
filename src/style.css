@@ -18,3 +18,9 @@ h2 {
 .emoji {
   text-align: right;
 }
+p {
+  display: block;
+  padding: 0 10px 10px 170px;
+  font-family: "Ibarra Real Nova", serif;
+  color: #264bf0;
+}
